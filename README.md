@@ -7,3 +7,7 @@
 5. Two-Layer Neural Network
 6. Full-connected Neural Network
 7. CNN
+8. RNN
+9. LSTM
+10. Transfer Learning
+11. Object Detection
